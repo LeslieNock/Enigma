@@ -1,0 +1,11 @@
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma.Tests\bin\Debug\Enigma.Tests.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma.Tests\bin\Debug\Enigma.Tests.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma.Tests\bin\Debug\Enigma.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma.Tests\bin\Debug\nunit.framework.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma.Tests\bin\Debug\Enigma.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma.Tests\bin\Debug\nunit.framework.xml
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma.Tests\obj\Debug\Enigma.Tests.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma.Tests\obj\Debug\Enigma.Tests.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma.Tests\obj\Debug\Enigma.Tests.csproj.CopyComplete
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma.Tests\obj\Debug\Enigma.Tests.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma.Tests\obj\Debug\Enigma.Tests.pdb

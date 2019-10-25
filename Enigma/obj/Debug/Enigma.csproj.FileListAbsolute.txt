@@ -1,0 +1,6 @@
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma\bin\Debug\Enigma.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma\bin\Debug\Enigma.pdb
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma\obj\Debug\Enigma.csprojAssemblyReference.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma\obj\Debug\Enigma.csproj.CoreCompileInputs.cache
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma\obj\Debug\Enigma.dll
+C:\Users\developer\Documents\Visual Studio 2017\Projects\Enigma\Enigma\obj\Debug\Enigma.pdb
